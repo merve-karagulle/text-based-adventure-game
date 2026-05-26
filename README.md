@@ -49,14 +49,21 @@ java Main
 ## 🎮 Example Commands
 
 ```text
-look
-go north
-take key
-talk guard
-inventory
-status
-```
+bak
+git kuzey
+al kirmizi_anahtar
+kullan kirmizi_anahtar
+konus Muhafız
+env
+durum
+yardim
+cikis
 
+---
+```md
+## 📄 Project Report
+
+Detailed project documentation is available in the `docs/` folder.
 ---
 
 ## 🧠 Concepts Practiced

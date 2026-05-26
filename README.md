@@ -58,12 +58,14 @@ env
 durum
 yardim
 cikis
+```
 
 ---
-```md
+
 ## 📄 Project Report
 
 Detailed project documentation is available in the `docs/` folder.
+
 ---
 
 ## 🧠 Concepts Practiced
@@ -74,3 +76,10 @@ Detailed project documentation is available in the `docs/` folder.
 - Command Parsing
 - State Management
 - Object-Oriented Programming
+
+---
+
+## 👨‍💻 Developer
+
+Merve Karagülle  
+Software Engineering Student | Robotics & Embedded Systems Enthusiast
